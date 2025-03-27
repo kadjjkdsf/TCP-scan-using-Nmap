@@ -330,11 +330,3 @@ _Wireshark: Decoyed IP Address_
 **In conclusion**: Nmap is a very powerful tool for network scanning / network security assessments. Basically the must-have tool on your belt when we talk about Network Security, Ethical Hacking or Pentesting.
 
 
-Useful links:
-
-* [Official Documentation](https://nmap.org/docs.html)
-* [Cheat Sheet with Pro Tips](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/)
-* [Cheat Sheet](https://nmapcookbook.blogspot.com/2010/02/nmap-cheat-sheet.html)
-* [Cheat Sheet 2](https://www.stationx.net/nmap-cheat-sheet/)
-* [Zenmap presets](https://www.securesolutions.no/zenmap-preset-scans/) 
-* [Bypassing Firewall Rules](https://nmap.org/book/firewall-subversion.html)
